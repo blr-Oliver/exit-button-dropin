@@ -1,0 +1,24 @@
+{
+  "name": "exit-button-dropin",
+  "version": "1.0.0",
+  "description": "Standalone dropin script to add exit button widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blr-Oliver/exit-button-dropin.git"
+  },
+  "keywords": [
+    "exit",
+    "button",
+    "dropin"
+  ],
+  "author": "vasily.liaskovsky@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blr-Oliver/exit-button-dropin/issues"
+  },
+  "homepage": "https://github.com/blr-Oliver/exit-button-dropin#readme"
+}
