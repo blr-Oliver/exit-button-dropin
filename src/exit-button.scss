@@ -13,7 +13,7 @@
   max-height: 7vmax;
   border-radius: 50%;
   background-color: #afa;
-  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMjUgMjB2LTRIMTVWMTJoMTB2LTRsNiA2TDI1IDIwek0yMyAxOHY4SDEzdjZsLTEyLTZWMGgyMnYxMEgyMVYySDVMMTMgNnYxOEgyMVYxOEgyM3oiIC8+PC9zdmc+);
+  background-image: url(exit.svg);
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: 70% 55%;
@@ -21,8 +21,7 @@
   z-index: 1000;
   transition-property: opacity;
   transition-duration: 0.2s;
-}
-
-.exit-button:hover, .exit-button:focus {
-  opacity: 1;
+  &:hover, &:focus {
+    opacity: 1;
+  }
 }
